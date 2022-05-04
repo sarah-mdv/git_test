@@ -4,7 +4,6 @@ about: Use this template for proposing new features.
 title: "feat: "
 labels: enhancement
 ---
-# Feature Request
 ## Expected Behavior
 Please share what the feature should do.
 ## Motivation
