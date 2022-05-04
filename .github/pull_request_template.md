@@ -6,15 +6,15 @@ Fixes # (issue)
 
 ## Type of change
 
-Please delete options that are not relevant.
+Please uncomment the applicable options.
 
-:white_check_mark: **Bug fix** (non-breaking change which fixes an issue)
-:white_check_mark: **New feature** (non-breaking change which adds functionality)
-:white_check_mark: **Refactoring** (functionality should not change)
-:white_check_mark: **Documentation**
-:white_check_mark: **Structural changes** (renaming or moving of files)
+<!-- :white_check_mark: **Bug fix** (non-breaking change which fixes an issue) -->
+<!-- :white_check_mark: **New feature** (non-breaking change which adds functionality) -->
+<!-- :white_check_mark: **Refactoring** (functionality should not change) -->
+<!-- :white_check_mark: **Documentation** -->
+<!-- :white_check_mark: **Structural changes** (renaming or moving of files) -->
 
-:biohazard: **Breaking change** (fix or feature that would cause existing functionality to not work as expected)
+<!-- :biohazard: **Breaking change** (fix or feature that would cause existing functionality to not work as expected) -->
 
 
 # How Has This Been Tested?
