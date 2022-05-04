@@ -10,3 +10,6 @@ Please share what the feature should do.
 Explain why this feature is important and relevant to the project
 
 ## Possible Solution (optional)
+
+## Definition of Done
+-[ ]
