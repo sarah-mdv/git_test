@@ -1,5 +1,5 @@
 ---
-name: Bug report
+name: Bug Report
 about: Use this template for proposing document a bug
 title: "bug: "
 labels: bug
