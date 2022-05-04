@@ -1,10 +1,3 @@
----
-name: Feature Pull Request
-about: Use this template for pull requests that implement a new feature.
-title: "feat: "
-labels: enhancement
----
-
 # Description
 
 Please include a summary of the changes and the related issue. Please also include relevant motivation and context. List any dependencies that are required for this change.
